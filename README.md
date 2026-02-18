@@ -1,4 +1,4 @@
-# 🌙 Sleep Mode – OpenDeck Plugin
+# 🌙  opendeck-mirabox-sleepmode
 
 > **[English version below](#english)**
 
